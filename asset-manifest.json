@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_type_script_chess/static/css/main.073c9b0a.css",
+    "main.js": "/react_type_script_chess/static/js/main.79f27f25.js",
+    "index.html": "/react_type_script_chess/index.html",
+    "main.073c9b0a.css.map": "/react_type_script_chess/static/css/main.073c9b0a.css.map",
+    "main.79f27f25.js.map": "/react_type_script_chess/static/js/main.79f27f25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.79f27f25.js"
+  ]
+}
